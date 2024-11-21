@@ -1,4 +1,4 @@
-module carry_propagate_adder (
+module h (
     input logic [3:0] A,
     input logic [3:0] B,
     output logic [3:0] Sum
