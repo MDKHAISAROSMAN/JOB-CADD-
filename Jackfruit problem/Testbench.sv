@@ -5,7 +5,7 @@ module test_fp_multiplier;
   fp_multiplier uut (
     .a(a),
     .b(b),
-    .result(result);
+    .result(result));
 
   initial 
     begin
